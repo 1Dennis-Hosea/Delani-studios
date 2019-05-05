@@ -1,0 +1,67 @@
+
+.home{
+  background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: white;
+  padding:100px;
+  text-align: center;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.about{
+  text-align: center;
+  font-size: 18px;
+}
+.services{
+  background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: white;
+  padding:100px;
+  text-align: center;
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.wedo{
+  text-align: center;
+}
+.portfolio{
+  padding: 50px;
+  text-align: center;
+  margin: 10px;
+
+}
+.contact{
+  background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: white;
+  padding:100px;
+  text-align: center;
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+#name{
+  border-width: thin;
+  border-style: solid;
+}
+#email{
+  border-width: thin;
+  border-style: solid;
+}
+#your{
+  border: 70px;
+  border-width: thin;
+  border-style: solid;
+
+}
