@@ -1,13 +1,13 @@
 $(document).ready(function() {
- $(".design").click(function(){
-   $(".showing").toggle();
-   $(".hidden").toggle();
+ $(".design" ).click(function(){
+   $(".our").toggle();
+
  });
  $(".devt").click(function() {
    $(".hidden").toggle();
    $(".showing").toggle();
  });
- $(".prod").click(function() {
+ $(".col-md-4").click(function() {
    $(".showing").toggle();
    $(".hidden").toggle();
  });
