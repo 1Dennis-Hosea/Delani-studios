@@ -1,15 +1,15 @@
 $(document).ready(function() {
  $(".design").click(function(){
-   $(".design-showing").toggle();
-   $(".design-hidden").toggle();
+   $(".showing").toggle();
+   $(".hidden").toggle();
  });
  $(".devt").click(function() {
-   $(".development-hidden").toggle();
-   $(".development-showing").toggle();
+   $(".hidden").toggle();
+   $(".showing").toggle();
  });
  $(".prod").click(function() {
-   $(".product-showing").toggle();
-   $(".product-hidden").toggle();
+   $(".showing").toggle();
+   $(".hidden").toggle();
  });
  $(".submit").click(function(event) {
    event.PreventDefault()
