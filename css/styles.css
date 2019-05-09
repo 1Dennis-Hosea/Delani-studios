@@ -29,8 +29,10 @@
   padding-top: 60px;
   padding-bottom: 60px;
 }
-.wedo{
+.container-1{
   text-align: center;
+  display: flex;
+  justify-content: flex;
 }
 .portfolio{
   padding: 50px;
@@ -65,6 +67,14 @@
   border-style: solid;
 
 }
-.wedo{
-  text-align: center;
+#hidden{
+  display: none;
+}
+
+#par{
+  display: none;
+}
+.container-fluid{
+  display: flex;
+  justify-content: center; 
 }
