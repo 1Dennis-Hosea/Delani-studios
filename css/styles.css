@@ -76,5 +76,9 @@
 }
 .container-fluid{
   display: flex;
-  justify-content: center; 
+  justify-content: center;
+  
+}
+.hi{
+  text-align: center;
 }
