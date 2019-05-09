@@ -1,5 +1,8 @@
 $(document).ready(function(){
+
+  // $("#hiden").hide();
   $(".col-md-4").click(function(){
-    $(".par").slideToggle()
+    $(this).children("#hiden").slideToggle("fast");
+    $(this).children(".col-md-4 img").slideToggle();
   });
 });
