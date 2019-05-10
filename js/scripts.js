@@ -6,6 +6,3 @@ $(document).ready(function(){
     $(this).children(".col-md-4 img").slideToggle();
   });
 });
-$(".contact").click(function){
-  alert("write your name!");
-}
