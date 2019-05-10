@@ -1,11 +1,11 @@
 # Delani
-#### { the page talks about delani studios and how one can register online.}, {6 May 2019}
+#### the page talks about delani studios and how one can register online.6 May 2019
 #### By **{List of contributors}**
 ## Description
-we want you to learn on how to get to us meet us on our website. 
+On the first page one ca have a view on how to access the page.   
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
+* insert your name.
+* your email and also your details are required
 * in a simple
 * easy-to-understand
 * format
@@ -13,9 +13,9 @@ we want you to learn on how to get to us meet us on our website.
 ## Known Bugs
 our provider and developers are working on the linking part of the website but that doesnot leave you unattended. Email us to help you sort your issues
 ## Technologies Used
-I have different languages including index.html, styles.css, bootstrap, jQuery and script.js to set up my website.
+I have used different languages including index.html, styles.css, bootstrap, jQuery and script.js to set up my website.
 ## Support and contact details
 on the webpage, one will be able to communicate to us through different social media of choice or call us on the provided contacts. We'll be available to respond to the difficulties faced by the users.
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {2019} D.H.Odwaro.
